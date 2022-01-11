@@ -1,0 +1,14 @@
+C:\Users\kelebro\source\repos\TravelSolution\WFTravelSolution\bin\Debug\WFTravelSolution.exe.config
+C:\Users\kelebro\source\repos\TravelSolution\WFTravelSolution\bin\Debug\WFTravelSolution.exe
+C:\Users\kelebro\source\repos\TravelSolution\WFTravelSolution\bin\Debug\WFTravelSolution.pdb
+C:\Users\kelebro\source\repos\TravelSolution\WFTravelSolution\obj\Debug\WFTravelSolution.csproj.AssemblyReference.cache
+C:\Users\kelebro\source\repos\TravelSolution\WFTravelSolution\obj\Debug\WFTravelSolution.Form1.resources
+C:\Users\kelebro\source\repos\TravelSolution\WFTravelSolution\obj\Debug\WFTravelSolution.Properties.Resources.resources
+C:\Users\kelebro\source\repos\TravelSolution\WFTravelSolution\obj\Debug\WFTravelSolution.csproj.GenerateResource.cache
+C:\Users\kelebro\source\repos\TravelSolution\WFTravelSolution\obj\Debug\WFTravelSolution.csproj.CoreCompileInputs.cache
+C:\Users\kelebro\source\repos\TravelSolution\WFTravelSolution\obj\Debug\WFTravelSolution.exe
+C:\Users\kelebro\source\repos\TravelSolution\WFTravelSolution\obj\Debug\WFTravelSolution.pdb
+C:\Users\kelebro\source\repos\TravelSolution\WFTravelSolution\bin\Debug\TravelLogicLayer.dll
+C:\Users\kelebro\source\repos\TravelSolution\WFTravelSolution\bin\Debug\TravelLogicLayer.pdb
+C:\Users\kelebro\source\repos\TravelSolution\WFTravelSolution\bin\Debug\TravelLogicLayer.dll.config
+C:\Users\kelebro\source\repos\TravelSolution\WFTravelSolution\obj\Debug\WFTravelSolution.csproj.CopyComplete
