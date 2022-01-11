@@ -1,0 +1,7 @@
+C:\Users\kelebro\source\repos\TravelSolution\TravelLogicLayer\obj\Debug\TravelLogicLayer.csproj.AssemblyReference.cache
+C:\Users\kelebro\source\repos\TravelSolution\TravelLogicLayer\obj\Debug\TravelLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\kelebro\source\repos\TravelSolution\TravelLogicLayer\bin\Debug\TravelLogicLayer.dll.config
+C:\Users\kelebro\source\repos\TravelSolution\TravelLogicLayer\bin\Debug\TravelLogicLayer.dll
+C:\Users\kelebro\source\repos\TravelSolution\TravelLogicLayer\bin\Debug\TravelLogicLayer.pdb
+C:\Users\kelebro\source\repos\TravelSolution\TravelLogicLayer\obj\Debug\TravelLogicLayer.dll
+C:\Users\kelebro\source\repos\TravelSolution\TravelLogicLayer\obj\Debug\TravelLogicLayer.pdb
